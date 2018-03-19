@@ -5,6 +5,7 @@
         "mpyw/co": "^1.5"
     },
     "license": "MIT",
+    "minimum-stabiltiy": "dev",
     "authors": [
         {
             "name": "zinntikumugai",
