@@ -1,0 +1,19 @@
+{
+    "name": "zinntikumugai/multi-exchange-api2",
+    "type": "library",
+    "require": {
+        "mpyw/co": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zinntikumugai",
+            "email": "uesitananame55@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MEAPI2\\": "src/"
+        }
+    }
+}
