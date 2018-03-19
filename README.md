@@ -9,9 +9,12 @@
 | C-CEX | ccex |
 
 ## How to use
+### install
 ```
-require_once __DIR__ .'/src/AutoLoader.php';
-
+composer require zinntikumugai/multi-exchange-api2
+```
+### use
+```
 var_dump(
     mpyw\Co\Co::wait([
         \MEAPI2\Model\zaif::pair()
